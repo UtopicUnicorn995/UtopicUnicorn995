@@ -20,4 +20,4 @@ Here are some ideas to get you started:-->
   </a>
 </div>
 
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=UtopicUnicorn995&layout=donut-vertical)
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=UtopicUnicorn995&layout=donut-vertical&langs_count=10)
