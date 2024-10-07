@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working at Sence1 as a Software Engineer.
+- 🔭 I’m currently working at d3.net as a Software Engineer.
 - 🌱 I’m currently learning Ruby on Rails.
 - 👯 I’m looking to collaborate on self-improvement.
 - 💬 Ask me about religion.
